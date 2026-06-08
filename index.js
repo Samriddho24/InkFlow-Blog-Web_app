@@ -21,10 +21,6 @@ app.get("/", (req,res) => {
     res.render("index.ejs", { posts });
 });
 
-app.get("/new", (req,res)=>{
-    res.render("new.ejs");
-});
-
    
 app.post("/create", (req,res) => {
     const {title, content} = req.body;
