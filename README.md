@@ -46,7 +46,7 @@ InkFlow-Blog-Web_app/
 ### Clone Repository
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/Samriddho24/InkFlow-Blog-Web_app.git
 ```
 
 ### Install Dependencies
